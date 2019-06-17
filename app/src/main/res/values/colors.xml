@@ -1,0 +1,5 @@
+<resources>
+    <color name="background_gradient_start">#141E30</color>
+    <color name="background_gradient_end">#243B55</color>
+    <color name="colorPrimary">#243B55</color>
+</resources>
